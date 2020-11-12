@@ -1,0 +1,4 @@
+1. Написать небольшое приложение на примере проекта experience_using_class
+2. Реализовать аналог ManyToMany для data class
+3. Реализация всех методов для repository должна базироваться на for, while, forEach
+4. Написать junit tests для вызова каждого!!! метода из service class
